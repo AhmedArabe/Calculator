@@ -1,0 +1,3 @@
+# Calculator
+Simple Calculator using Microcontroller AVR Atmega32, LCD 16*2 and Keypad
+It handled special cases such as division by zero and so on...
